@@ -1,0 +1,24 @@
+{
+  "name": "ladda",
+  "version": "1.0.0",
+  "description": "ladda styled ver by Petryshyn Andriy",
+  "main": "rollup.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IPZK231PAO/STD.git"
+  },
+  "keywords": [
+    "ladda",
+    "styled",
+    "ver"
+  ],
+  "author": "Andriy Petryshyn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IPZK231PAO/STD/issues"
+  },
+  "homepage": "https://github.com/IPZK231PAO/STD#readme"
+}
